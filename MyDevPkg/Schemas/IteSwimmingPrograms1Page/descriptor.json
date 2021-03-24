@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "48e8e958-c6e2-46db-a5dd-359bd16301f5",
+    "Name": "IteSwimmingPrograms1Page",
+    "ModifiedOnUtc": "\/Date(1616607480000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Программы плавания\""
+  }
+}

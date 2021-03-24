@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "46e5068b-8b7a-448a-8ae1-dbd3d8afc09b",
+    "Name": "IteSwimmingProgramsTag",
+    "ModifiedOnUtc": "\/Date(1616597627000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела Программы плавания"
+  }
+}

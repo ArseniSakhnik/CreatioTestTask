@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "ca74ca17-3e62-430e-8e37-eb8e2a5e514a",
+    "Name": "IteSwimmingProgramsInFolder",
+    "ModifiedOnUtc": "\/Date(1616597626000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Программы плавания в группе"
+  }
+}

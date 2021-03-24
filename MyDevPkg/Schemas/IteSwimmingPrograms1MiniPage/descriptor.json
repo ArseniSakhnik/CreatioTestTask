@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "bb3c14d7-08ef-422b-84f3-e77937ac737c",
+    "Name": "IteSwimmingPrograms1MiniPage",
+    "ModifiedOnUtc": "\/Date(1616607309000)\/",
+    "Parent": {
+      "UId": "8e06a577-08e4-424e-bd89-798a34e1b928",
+      "Name": "BaseMiniPage"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "IteSwimmingPrograms1MiniPage"
+  }
+}
