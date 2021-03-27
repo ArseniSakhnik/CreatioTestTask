@@ -10,6 +10,7 @@
 			<Item Name="Columns.IteNotes.Caption" Value="Заметки" />
 			<Item Name="Columns.IteOwner.Caption" Value="Ответственный" />
 			<Item Name="Columns.ItePeriodicity.Caption" Value="Периодичность " />
+			<Item Name="Columns.IteSwimmingProgramsLookup.Caption" Value="Программа плавания" />
 		</Items>
 	</Group>
 </Resources>

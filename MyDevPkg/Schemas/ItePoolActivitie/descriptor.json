@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "8c61bff3-ce39-4783-ae8b-c3a139bb1b0c",
+    "Name": "ItePoolActivitie",
+    "ModifiedOnUtc": "\/Date(1616695605000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Занятия в бассейне"
+  }
+}

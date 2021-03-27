@@ -1,0 +1,9 @@
+= MetaData.Schema.UId "46a297f8-0141-430a-9113-45f7b6b0e1b4"
+= MetaData.Schema.A2 "ItePoolActivitiesDetail"
+= MetaData.Schema.A5 "f7976694-ac31-4631-b14f-c752349b9b58"
+= MetaData.Schema.B2.["8f7c31a4-b656-47c9-a503-a72d0b3dd077"].A4 "46a297f8-0141-430a-9113-45f7b6b0e1b4"
+= MetaData.Schema.B6 "3c5794ac-7545-43c8-970d-8e66a3856f08"
+= MetaData.Schema.B8 "7.16.2.1600"
+= MetaData.Schema.HD1 "550e7a82-2e5e-442a-90d2-0008616e822e"
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

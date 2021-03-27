@@ -1,0 +1,113 @@
+= MetaData.Schema.UId "8c61bff3-ce39-4783-ae8b-c3a139bb1b0c"
+= MetaData.Schema.A2 "ItePoolActivitie"
+= MetaData.Schema.A5 "f7976694-ac31-4631-b14f-c752349b9b58"
+= MetaData.Schema.B6 "3c5794ac-7545-43c8-970d-8e66a3856f08"
+= MetaData.Schema.B8 "7.16.2.1600"
+= MetaData.Schema.EG1.UId "d551eb5b-b60c-42b8-aed5-32715660413d"
+= MetaData.Schema.EG1.A2 "ItePoolActivitieEventsProcess"
+= MetaData.Schema.EG1.A5 "f7976694-ac31-4631-b14f-c752349b9b58"
++ MetaData.Schema.EG1.B8 "7.16.2.1600"
+= MetaData.Schema.EG1.BK8 "7bb7d6a5-e7a3-4837-83bc-7f785d688165"
+= MetaData.Schema.EG1.BK37.A3 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK37.A4 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
++ MetaData.Schema.EG1.Labels []
+= MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
+= MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].A4 "8c61bff3-ce39-4783-ae8b-c3a139bb1b0c"
+- MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E15
+= MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].A4 "8c61bff3-ce39-4783-ae8b-c3a139bb1b0c"
+- MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E15
+= MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].A4 "8c61bff3-ce39-4783-ae8b-c3a139bb1b0c"
+- MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E15
+= MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].A4 "8c61bff3-ce39-4783-ae8b-c3a139bb1b0c"
+- MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E15
+= MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].A4 "8c61bff3-ce39-4783-ae8b-c3a139bb1b0c"
+- MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E15
+= MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].A4 "8c61bff3-ce39-4783-ae8b-c3a139bb1b0c"
+- MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E15
++ MetaData.Schema.D2 {
+  "UId": "136382a2-fc08-4520-b6d8-027540406c0a",
+  "A2": "IteClassDate",
+  "A3": "8c61bff3-ce39-4783-ae8b-c3a139bb1b0c",
+  "A4": "8c61bff3-ce39-4783-ae8b-c3a139bb1b0c",
+  "A5": "f7976694-ac31-4631-b14f-c752349b9b58",
+  "S2": "603d4960-a1a2-45e9-b232-206a54421b01",
+  "E5": false
+}
++ MetaData.Schema.D2 {
+  "UId": "c00e6f2a-9bfa-4105-a88e-068f53f04f10",
+  "A2": "IteCoach",
+  "A3": "8c61bff3-ce39-4783-ae8b-c3a139bb1b0c",
+  "A4": "8c61bff3-ce39-4783-ae8b-c3a139bb1b0c",
+  "A5": "f7976694-ac31-4631-b14f-c752349b9b58",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "09bb9984-eeec-40ed-a21f-6086ab52685e",
+  "E5": false,
+  "E6": true,
+  "E17": "IteCoachId",
+  "E18": "IteCoachName"
+}
++ MetaData.Schema.D2 {
+  "UId": "43f38c10-27ad-418b-b3a9-354a7eda5620",
+  "A2": "IteNumberOfParticipants",
+  "A3": "8c61bff3-ce39-4783-ae8b-c3a139bb1b0c",
+  "A4": "8c61bff3-ce39-4783-ae8b-c3a139bb1b0c",
+  "A5": "f7976694-ac31-4631-b14f-c752349b9b58",
+  "S2": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0",
+  "E5": false
+}
++ MetaData.Schema.D2 {
+  "UId": "30282f9f-ff0e-4c74-af64-83b07c2fad85",
+  "A2": "IteActivityStatus",
+  "A3": "8c61bff3-ce39-4783-ae8b-c3a139bb1b0c",
+  "A4": "8c61bff3-ce39-4783-ae8b-c3a139bb1b0c",
+  "A5": "f7976694-ac31-4631-b14f-c752349b9b58",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "40a926f2-9b89-4dc8-9371-d3a4ea70712e",
+  "E5": false,
+  "E6": true,
+  "E17": "IteActivityStatusId",
+  "E18": "IteActivityStatusName"
+}
++ MetaData.Schema.D2 {
+  "UId": "db8cdc6c-ad9b-4d12-84cc-d0ab3d0c84db",
+  "A2": "IteDuration",
+  "A3": "8c61bff3-ce39-4783-ae8b-c3a139bb1b0c",
+  "A4": "8c61bff3-ce39-4783-ae8b-c3a139bb1b0c",
+  "A5": "f7976694-ac31-4631-b14f-c752349b9b58",
+  "S2": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0",
+  "E5": false
+}
++ MetaData.Schema.D2 {
+  "UId": "9cce43bd-4c77-411e-9e0d-ad46321661f7",
+  "A2": "IteSwimmingProgramm",
+  "A3": "8c61bff3-ce39-4783-ae8b-c3a139bb1b0c",
+  "A4": "8c61bff3-ce39-4783-ae8b-c3a139bb1b0c",
+  "A5": "f7976694-ac31-4631-b14f-c752349b9b58",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "b332e3f8-2006-4f2b-be07-715e3e1afb1d",
+  "E2": 1,
+  "E6": true,
+  "E17": "IteSwimmingProgrammId",
+  "E18": "IteSwimmingProgrammIteName"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","136382a2-fc08-4520-b6d8-027540406c0a","c00e6f2a-9bfa-4105-a88e-068f53f04f10","43f38c10-27ad-418b-b3a9-354a7eda5620","30282f9f-ff0e-4c74-af64-83b07c2fad85","db8cdc6c-ad9b-4d12-84cc-d0ab3d0c84db","9cce43bd-4c77-411e-9e0d-ad46321661f7"]
+= MetaData.Schema.D20.A2 "ItePoolActivitieEvents"
+- MetaData.Schema.EG1.B6
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.D20.A5
+- MetaData.Schema.D20.FA4
+- MetaData.Schema.D20.FA5
+- MetaData.Schema.D20.FA6
+- MetaData.Schema.D20.FA7
+- MetaData.Schema.D20.FA11
+- MetaData.Schema.D20.FA12
+- MetaData.Schema.D20.FA15
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false

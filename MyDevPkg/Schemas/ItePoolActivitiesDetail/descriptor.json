@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "46a297f8-0141-430a-9113-45f7b6b0e1b4",
+    "Name": "ItePoolActivitiesDetail",
+    "ModifiedOnUtc": "\/Date(1616849343000)\/",
+    "Parent": {
+      "UId": "550e7a82-2e5e-442a-90d2-0008616e822e",
+      "Name": "BaseProcessSettingDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема занятий в бассейне в программах плавания"
+  }
+}

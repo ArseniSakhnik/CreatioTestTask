@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "a01b496f-bd9b-498f-aa4c-e4d1f361707c",
+    "Name": "IteSchema8bfcc8a5Detail",
+    "ModifiedOnUtc": "\/Date(1616694200000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Занятия в бассейне\""
+  }
+}

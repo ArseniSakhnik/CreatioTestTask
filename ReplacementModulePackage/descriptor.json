@@ -1,8 +1,8 @@
 ﻿{
   "Descriptor": {
-    "UId": "3c5794ac-7545-43c8-970d-8e66a3856f08",
-    "Name": "MyDevPkg",
-    "ModifiedOnUtc": "\/Date(1616506480000)\/",
+    "UId": "6e87f546-a0c7-498a-894e-837f3e385875",
+    "Name": "ReplacementModulePackage",
+    "ModifiedOnUtc": "\/Date(1616850823000)\/",
     "Maintainer": "Customer",
     "DependsOn": [
       {

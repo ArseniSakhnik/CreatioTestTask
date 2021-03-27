@@ -11,6 +11,14 @@ define("IteSwimmingPrograms1Page", [], function() {
 					"masterColumn": "Id",
 					"detailColumn": "IteSwimmingPrograms"
 				}
+			},
+			"IteSchema8bfcc8a5Detail974707b4": {
+				"schemaName": "IteSchema8bfcc8a5Detail",
+				"entitySchemaName": "ItePoolActivitie",
+				"filter": {
+					"detailColumn": "IteSwimmingProgramm",
+					"masterColumn": "Id"
+				}
 			}
 		}/**SCHEMA_DETAILS*/,
 		businessRules: /**SCHEMA_BUSINESS_RULES*/{
@@ -126,6 +134,25 @@ define("IteSwimmingPrograms1Page", [], function() {
 			},
 			{
 				"operation": "insert",
+				"name": "LOOKUP3b2c5bed-1748-40b0-9eee-75d7b84a615f",
+				"values": {
+					"layout": {
+						"colSpan": 24,
+						"rowSpan": 1,
+						"column": 0,
+						"row": 5,
+						"layoutName": "ProfileContainer"
+					},
+					"bindTo": "IteSwimmingProgramsLookup",
+					"enabled": true,
+					"contentType": 5
+				},
+				"parentName": "ProfileContainer",
+				"propertyName": "items",
+				"index": 5
+			},
+			{
+				"operation": "insert",
 				"name": "IteCommentf7e94789-7604-448f-86c6-9a42a9242a56",
 				"values": {
 					"layout": {
@@ -210,10 +237,35 @@ define("IteSwimmingPrograms1Page", [], function() {
 				"index": 0
 			},
 			{
+				"operation": "insert",
+				"name": "Tabe6649fabTabLabel",
+				"values": {
+					"caption": {
+						"bindTo": "Resources.Strings.Tabe6649fabTabLabelTabCaption"
+					},
+					"items": [],
+					"order": 1
+				},
+				"parentName": "Tabs",
+				"propertyName": "tabs",
+				"index": 1
+			},
+			{
+				"operation": "insert",
+				"name": "IteSchema8bfcc8a5Detail974707b4",
+				"values": {
+					"itemType": 2,
+					"markerValue": "added-detail"
+				},
+				"parentName": "Tabe6649fabTabLabel",
+				"propertyName": "items",
+				"index": 0
+			},
+			{
 				"operation": "merge",
 				"name": "ESNTab",
 				"values": {
-					"order": 1
+					"order": 2
 				}
 			}
 		]/**SCHEMA_DIFF*/
